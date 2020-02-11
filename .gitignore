@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Data
+env_3112020.RData
+knnFit_PP2_F.rds
+knnFit_PP2_LA.rds
+test_PP1_F.rds
+trainingData.csv
+validationData.csv
+WIFI_training_PP1.rds
+WIFI_training_PP2_GS.rds
+WIFI_validation_PP.rds
